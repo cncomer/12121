@@ -1,14 +1,10 @@
 {
-    "plugins": [ "theme-faq" ,"-search", "-share", "search-pro", "-sharing", "-tbfed-pagefooter"],
+    "plugins": [ "theme-faq" ,"-search", "-share", "search-pro", "-sharing"],
     "pluginsConfig": {
         "search-pro": {
             "cutWordLib": "nodejieba",
             "defineWord" : ["Gitbook Use"]
-        },
-        "tbfed-pagefooter": {
-            "copyright":"Copyright © anfutuo.com 2017",
-            "modify_label": "修订时间：",
-            "modify_format": "YYYY-MM-DD HH:mm:ss"
         }
+        
     }
 }
