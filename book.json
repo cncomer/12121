@@ -1,5 +1,5 @@
 {
-    "plugins": [ "theme-faq" ,"-search", "-share", "search-pro", "-sharing"],
+    "plugins": [ "theme-api" ,"-search", "-share", "-search-pro", "-sharing"],
     "pluginsConfig": {
         "search-pro": {
             "cutWordLib": "nodejieba",
