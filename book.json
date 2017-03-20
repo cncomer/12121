@@ -1,6 +1,6 @@
 {
     "title": "anfutuo.com",
-    "language" : "zh",
+    "language" : "zh-hans",
     "plugins": [ "-search", "-share", "-search-pro", "-sharing", "-disqus"],
     "pluginsConfig": {
         "search-pro": {
