@@ -1,4 +1,5 @@
 {
+    "title": "anfutuo.com",
     "language" : "zh",
     "plugins": [ "-search", "-share", "-search-pro", "-sharing", "-disqus"],
     "pluginsConfig": {
