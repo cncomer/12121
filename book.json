@@ -8,5 +8,10 @@
             "defineWord" : ["Gitbook Use"]
         }
         
+    },
+    "links" : {
+    "sidebar" : {
+        "Home" : "http://www.anfutuo.com"
     }
+}
 }
